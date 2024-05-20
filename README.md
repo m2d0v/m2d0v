@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @m2d0v
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript, TypeScript, Vue
-- 💞️ I’m looking to collaborate on pet-projects
-- 📫 How to reach me @blxck_main (telegram)
-- 😄 Pronouns: sigma male🗿
-- ⚡ Fun fact: aesthetic design lover
+everything is black
